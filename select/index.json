@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "完食",
+  "base_artist": "fishbowl",
+  "createdAt": "2026-03-27T12:38:44.250677Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "完食",
+      "artist": "fishbowl",
+      "has_synced": false,
+      "path": "select/pl_01_完食_fishbowl.txt"
+    }
+  ]
+}
